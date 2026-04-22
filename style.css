@@ -1,0 +1,81 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: border-box;
+    background-color: black;
+    color: white;
+}
+
+#top{
+    text-align: center;
+}
+.top2{
+    background-color: darkgreen;
+    margin-top: 10px;
+    text-align: center;
+}
+#anchor{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    margin-top: 10px;
+    font-size: large;
+    margin-bottom: 15px;
+}
+
+
+
+
+/* content-section */
+
+#top3{
+    margin-top: 20px;
+    text-align: center;
+}
+.main2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#box1{
+    width: 200px;
+    height: 250px;
+    border: 2px solid white;
+}
+#data{
+   
+}
+.data0{
+    display: inline-block;
+     width: 30%;
+    height: 30%;
+    border: 2px solid white;
+    position: relative;
+    left: 130px;
+    top: 5px;
+    background-image: url(elon\ musk.jpg);
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+#box2{
+    width: 200px;
+    height: 250px;
+    border: 2px solid white;
+}
+#box3{
+    width: 200px;
+    height: 250px;
+    border: 2px solid white;
+}
